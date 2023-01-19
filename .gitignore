@@ -1,3 +1,9 @@
+# Temporary Word files
+~$*.doc*
+
+# Mac hidden files
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
